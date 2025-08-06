@@ -5,21 +5,18 @@ http://audio2.abiblica.org/bibles/app/audio/4_1.zip
 http://audio2.abiblica.org/bibles/app/audio/4_66.zip
 """
 
-
 import pathlib
 from src.py.utils.log_util import default_logger as logger
 from src.py.utils.constants import CONFIG_FILE, DATA_DIR
-from src.py.utils.file_util import get_file_lines,save_config,load_config,check_zip_file
+from src.py.utils.file_util import (
+    get_file_lines,
+    save_config,
+    load_config,
+    check_zip_file,
+)
+from src.py.utils.tasks_util import run_with_thread_pool
+from src.py.utils.download_util import download_file
 
-
-def download_single_file(url:str,download_filepath:pathlib.Path):
-    """
-    下载单个文件
-    """
-    logger.info(f"开始下载文件: {download_filepath}")
-    download_filepath.parent.mkdir(parents=True, exist_ok=True)
-    logger.info(f"下载文件完成: {download_filepath}")
-    return check_zip_file(download_filepath)
 
 def download_audios():
     """
@@ -27,15 +24,21 @@ def download_audios():
     """
     logger.info(f"开始下载音频文件")
     config = load_config()
+
+    # 准备下载任务列表
+    download_tasks = []
     for audio in config["bible"]["audio_list"]:
         if not audio["download_status"]:
-            logger.info(f"文件未下载: {audio['download_filepath']}")
-            if download_single_file(audio["url"],audio["download_filepath"]):
-                audio["download_status"] = True
-            else:
-                audio["download_status"] = False
-    save_config(config)
+            logger.info(f"准备下载文件: {audio['download_filepath']}")
+            download_tasks.append((audio["url"], audio["download_filepath"]))
+
+    # 使用线程池执行下载任务
+    if download_tasks:
+        run_with_thread_pool(download_file, download_tasks)
+
     logger.info(f"下载音频文件完成")
+    check_download_status()
+
 
 def check_download_status():
     """
@@ -50,8 +53,10 @@ def check_download_status():
         else:
             logger.info(f"文件不完整: {audio['download_filepath']}")
             audio["download_status"] = False
+
     save_config(config)
     logger.info("检查下载文件是否完整完成")
+
 
 def generate_config():
     logger.info("开始生成配置文件")
@@ -97,5 +102,14 @@ def generate_config():
     logger.info("配置文件生成完成")
 
 
+def main():
+    """
+    主函数
+    """
+    # generate_config()
+    # check_download_status()
+    download_audios()
+
+
 if __name__ == "__main__":
-    generate_config()
+    main()

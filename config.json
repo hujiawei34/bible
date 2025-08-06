@@ -8,7 +8,7 @@
                 "bookname": "创世记",
                 "order": 1,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_2.zip",
@@ -17,7 +17,7 @@
                 "bookname": "出埃及记",
                 "order": 2,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_3.zip",
@@ -26,7 +26,7 @@
                 "bookname": "利未记",
                 "order": 3,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_4.zip",
@@ -35,7 +35,7 @@
                 "bookname": "民数记",
                 "order": 4,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_5.zip",
@@ -44,7 +44,7 @@
                 "bookname": "申命记",
                 "order": 5,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_6.zip",
@@ -53,7 +53,7 @@
                 "bookname": "约书亚记",
                 "order": 6,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_7.zip",
@@ -62,7 +62,7 @@
                 "bookname": "士师记",
                 "order": 7,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_8.zip",
@@ -71,7 +71,7 @@
                 "bookname": "路得记",
                 "order": 8,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_9.zip",
@@ -80,7 +80,7 @@
                 "bookname": "撒母耳记上",
                 "order": 9,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_10.zip",
@@ -89,7 +89,7 @@
                 "bookname": "撒母耳记下",
                 "order": 10,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_11.zip",
@@ -98,7 +98,7 @@
                 "bookname": "列王记上",
                 "order": 11,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_12.zip",
@@ -107,7 +107,7 @@
                 "bookname": "列王记下",
                 "order": 12,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_13.zip",
@@ -116,7 +116,7 @@
                 "bookname": "历代志上",
                 "order": 13,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_14.zip",
@@ -125,7 +125,7 @@
                 "bookname": "历代志下",
                 "order": 14,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_15.zip",
@@ -134,7 +134,7 @@
                 "bookname": "以斯拉记",
                 "order": 15,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_16.zip",
@@ -143,7 +143,7 @@
                 "bookname": "尼希米记",
                 "order": 16,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_17.zip",
@@ -152,7 +152,7 @@
                 "bookname": "以斯帖记",
                 "order": 17,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_18.zip",
@@ -161,7 +161,7 @@
                 "bookname": "约伯记",
                 "order": 18,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_19.zip",
@@ -170,7 +170,7 @@
                 "bookname": "诗篇",
                 "order": 19,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_20.zip",
@@ -179,7 +179,7 @@
                 "bookname": "箴言",
                 "order": 20,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_21.zip",
@@ -188,7 +188,7 @@
                 "bookname": "传道书",
                 "order": 21,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_22.zip",
@@ -197,7 +197,7 @@
                 "bookname": "雅歌",
                 "order": 22,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_23.zip",
@@ -206,7 +206,7 @@
                 "bookname": "以赛亚书",
                 "order": 23,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_24.zip",
@@ -215,7 +215,7 @@
                 "bookname": "耶利米书",
                 "order": 24,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_25.zip",
@@ -224,7 +224,7 @@
                 "bookname": "耶利米哀歌",
                 "order": 25,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_26.zip",
@@ -233,7 +233,7 @@
                 "bookname": "以西结书",
                 "order": 26,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_27.zip",
@@ -242,7 +242,7 @@
                 "bookname": "但以理书",
                 "order": 27,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_28.zip",
@@ -251,7 +251,7 @@
                 "bookname": "何西阿书",
                 "order": 28,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_29.zip",
@@ -260,7 +260,7 @@
                 "bookname": "约珥书",
                 "order": 29,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_30.zip",
@@ -269,7 +269,7 @@
                 "bookname": "阿摩司书",
                 "order": 30,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_31.zip",
@@ -278,7 +278,7 @@
                 "bookname": "俄巴底亚书",
                 "order": 31,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_32.zip",
@@ -287,7 +287,7 @@
                 "bookname": "约拿书",
                 "order": 32,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_33.zip",
@@ -296,7 +296,7 @@
                 "bookname": "弥迦书",
                 "order": 33,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_34.zip",
@@ -305,7 +305,7 @@
                 "bookname": "那鸿书",
                 "order": 34,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_35.zip",
@@ -314,7 +314,7 @@
                 "bookname": "哈巴谷书",
                 "order": 35,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_36.zip",
@@ -323,7 +323,7 @@
                 "bookname": "西番雅书",
                 "order": 36,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_37.zip",
@@ -332,7 +332,7 @@
                 "bookname": "哈该书",
                 "order": 37,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_38.zip",
@@ -341,7 +341,7 @@
                 "bookname": "撒迦利亚书",
                 "order": 38,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_39.zip",
@@ -350,7 +350,7 @@
                 "bookname": "玛拉基书",
                 "order": 39,
                 "category": "旧约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_40.zip",
@@ -359,7 +359,7 @@
                 "bookname": "马太福音",
                 "order": 40,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_41.zip",
@@ -368,7 +368,7 @@
                 "bookname": "马可福音",
                 "order": 41,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_42.zip",
@@ -377,7 +377,7 @@
                 "bookname": "路加福音",
                 "order": 42,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_43.zip",
@@ -386,7 +386,7 @@
                 "bookname": "约翰福音",
                 "order": 43,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_44.zip",
@@ -395,7 +395,7 @@
                 "bookname": "使徒行传",
                 "order": 44,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_45.zip",
@@ -404,7 +404,7 @@
                 "bookname": "罗马书",
                 "order": 45,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_46.zip",
@@ -413,7 +413,7 @@
                 "bookname": "哥林多前书",
                 "order": 46,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_47.zip",
@@ -422,7 +422,7 @@
                 "bookname": "哥林多后书",
                 "order": 47,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_48.zip",
@@ -431,7 +431,7 @@
                 "bookname": "加拉太书",
                 "order": 48,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_49.zip",
@@ -440,7 +440,7 @@
                 "bookname": "以弗所书",
                 "order": 49,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_50.zip",
@@ -449,7 +449,7 @@
                 "bookname": "腓立比书",
                 "order": 50,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_51.zip",
@@ -458,7 +458,7 @@
                 "bookname": "歌罗西书",
                 "order": 51,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_52.zip",
@@ -467,7 +467,7 @@
                 "bookname": "帖撒罗尼迦前书",
                 "order": 52,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_53.zip",
@@ -476,7 +476,7 @@
                 "bookname": "帖撒罗尼迦后书",
                 "order": 53,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_54.zip",
@@ -485,7 +485,7 @@
                 "bookname": "提摩太前书",
                 "order": 54,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_55.zip",
@@ -494,7 +494,7 @@
                 "bookname": "提摩太后书",
                 "order": 55,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_56.zip",
@@ -503,7 +503,7 @@
                 "bookname": "提多书",
                 "order": 56,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_57.zip",
@@ -512,7 +512,7 @@
                 "bookname": "腓利门书",
                 "order": 57,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_58.zip",
@@ -521,7 +521,7 @@
                 "bookname": "希伯来书",
                 "order": 58,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_59.zip",
@@ -530,7 +530,7 @@
                 "bookname": "雅各书",
                 "order": 59,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_60.zip",
@@ -539,7 +539,7 @@
                 "bookname": "彼得前书",
                 "order": 60,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_61.zip",
@@ -548,7 +548,7 @@
                 "bookname": "彼得后书",
                 "order": 61,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_62.zip",
@@ -557,7 +557,7 @@
                 "bookname": "约翰一书",
                 "order": 62,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_63.zip",
@@ -566,7 +566,7 @@
                 "bookname": "约翰二书",
                 "order": 63,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_64.zip",
@@ -575,7 +575,7 @@
                 "bookname": "约翰三书",
                 "order": 64,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_65.zip",
@@ -584,7 +584,7 @@
                 "bookname": "犹大书",
                 "order": 65,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             },
             {
                 "url": "http://audio2.abiblica.org/bibles/app/audio/4_66.zip",
@@ -593,7 +593,7 @@
                 "bookname": "启示录",
                 "order": 66,
                 "category": "新约",
-                "download_status": false
+                "download_status": true
             }
         ]
     }

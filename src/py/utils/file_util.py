@@ -64,3 +64,4 @@ def check_zip_file(file_path):
     except zipfile.BadZipFile:
         logger.info(f"文件格式错误: {file_path}")
         return False
+        
